@@ -70,3 +70,19 @@ church_management_system/
 ├── database.py          # Primary SQLite data management class
 ├── .gitignore           # Excluded binaries, builds, and local database instances
 └── README.md            # Project documentation
+
+---
+
+## Interface Overview
+
+### Dashboard Summary
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Members Directory
+![Members Directory](docs/screenshots/members.png)
+
+### Member Management & Editing
+![Edit Member](docs/screenshots/editmember.png)
+
+### Financial Analytics & Statements
+![Financial Records](docs/screenshots/financials.png)
