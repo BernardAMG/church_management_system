@@ -62,10 +62,10 @@ Tech Stack
 Repository Structure
 
 church_management_system/
-├── database/            # Database initialization and connection handling
-├── ui/                  # PyQt6 UI tabs, dialogs, and main window components
-├── utils/               # Cryptographic security, export utilities, and database updaters
-├── main.py              # Application entry point
-├── database.py          # Primary SQLite data management class
-├── .gitignore           # Excluded binaries, builds, and local database instances
-└── README.md            # Project documentation
+├── database/             Database initialization and connection handling
+├── ui/                   PyQt6 UI tabs, dialogs, and main window components
+├── utils/                Cryptographic security, export utilities, and database updaters
+├── main.py               Application entry point
+├── database.py           Primary SQLite data management class
+├── .gitignore            Excluded binaries, builds, and local database instances
+└── README.md             Project documentation
